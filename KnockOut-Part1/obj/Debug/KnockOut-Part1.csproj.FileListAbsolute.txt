@@ -1,0 +1,6 @@
+D:\HoL\UInUX\KnockOut\KO1\KnockOut-Part1\bin\KnockOut-Part1.dll.config
+D:\HoL\UInUX\KnockOut\KO1\KnockOut-Part1\bin\KnockOut-Part1.dll
+D:\HoL\UInUX\KnockOut\KO1\KnockOut-Part1\bin\KnockOut-Part1.pdb
+D:\HoL\UInUX\KnockOut\KO1\KnockOut-Part1\obj\Debug\KnockOut-Part1.dll
+D:\HoL\UInUX\KnockOut\KO1\KnockOut-Part1\obj\Debug\KnockOut-Part1.pdb
+D:\HoL\UInUX\KnockOut\KO1\KnockOut-Part1\obj\Debug\KnockOut-Part1.csprojResolveAssemblyReference.cache

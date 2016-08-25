@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\HoL\UInUX\KnockOut\KO1\KnockOut-Part1\obj\Debug\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="D:\HoL\UInUX\KnockOut\KO1\KnockOut-Part1\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\HoL\UInUX\KnockOut\KO1\KnockOut-Part1\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
